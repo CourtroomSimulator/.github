@@ -1,3 +1,3 @@
-## Hi there 👋
+#  Courtroom Simulator 👋
 
-Courtroom Simulator is an application that simulates the scene of a court trial, helping users practice the debate process in court. The judge and the opposing lawyer will be played by AI agents, with the judge rendering a verdict based on the performance during the trial.
+The Courtroom Simulator is an application designed to emulate courtroom trial scenarios, aiding users in practicing the process of courtroom debate. Artificial intelligence agents will play the roles of the judge and the opposing attorney, with the judge rendering a verdict based on the user's performance during the trial. Users will be rewarded with more tokens if they win the case, and a smaller amount of tokens if they lose.
