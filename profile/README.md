@@ -10,6 +10,6 @@ Sui contract: [courtroom_simulator_contract](https://github.com/CourtroomSimulat
 AI agent developed based on Eliza：[eliza](https://github.com/CourtroomSimulator/eliza)  
 
 ## demo video
-
-
+demo video with Narration:[courtroom simulator with Narration](https://youtu.be/9JAkLErLlvM)
+demo video:[courtroom simulator](https://youtu.be/b4DhyrCUr84)
 
